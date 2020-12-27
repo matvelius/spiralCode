@@ -1,0 +1,24 @@
+{
+  "name": "spiralcode",
+  "version": "1.0.0",
+  "description": "read a matrix of numbers in a clockwise spiral starting from center",
+  "main": "spiralCode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matvelius/spiralCode.git"
+  },
+  "keywords": [
+    "spiral",
+    "code",
+    "matrix"
+  ],
+  "author": "Matvey Kostukovsky (Yandex Practicum problem)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matvelius/spiralCode/issues"
+  },
+  "homepage": "https://github.com/matvelius/spiralCode#readme"
+}
